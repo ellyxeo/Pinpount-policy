@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - Pinpoint</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #f9f9f9; }
+        h1 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        h2 { color: #2980b9; margin-top: 30px; }
+        ul { margin-bottom: 20px; }
+        li { margin-bottom: 10px; }
+        a { color: #3498db; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .footer { margin-top: 50px; font-size: 0.9em; color: #7f8c8d; border-top: 1px solid #ddd; padding-top: 20px; }
+    </style>
+</head>
+<body>
+
+    <h1>Política de Privacidad de Pinpoint</h1>
+    <p><strong>Última actualización:</strong> 15 de Diciembre de 2025</p>
+
+    <p>La aplicación <strong>Pinpoint</strong> (desarrollada por Ellyxeo Apps) se proporciona como un servicio gratuito diseñado para fines educativos y académicos. Esta página se utiliza para informar a los visitantes sobre nuestras políticas con la recopilación, el uso y la divulgación de información personal si alguien decide utilizar nuestro Servicio.</p>
+
+    <p>Si decide utilizar nuestro Servicio, acepta la recopilación y el uso de información en relación con esta política.</p>
+
+    <h2>1. Recopilación y Uso de Información</h2>
+    <p>Para una mejor experiencia al usar nuestro Servicio, es posible que le solicitemos que nos proporcione cierta información de identificación personal. La aplicación utiliza servicios de terceros que pueden recopilar información utilizada para identificarlo:</p>
+    
+    <ul>
+        <li><strong>Google Firebase (Firestore):</strong> Utilizamos Firebase para almacenar los datos de los foros, cuadernos y herramientas académicas.</li>
+        <li><strong>ImgBB:</strong> Si el usuario decide subir imágenes (para anuncios del foro o generación de PDFs), estas imágenes se alojan en los servidores de ImgBB.</li>
+        <li><strong>OneSignal:</strong> Utilizamos este servicio para enviar notificaciones push importantes sobre la actividad académica (ej. nuevos avisos del profesor).</li>
+    </ul>
+
+    <h2>2. Permisos de la Aplicación</h2>
+    <p>La aplicación puede solicitar los siguientes permisos en su dispositivo:</p>
+    <ul>
+        <li><strong>Cámara y Galería:</strong> Necesario para adjuntar imágenes en el foro o crear documentos PDF a partir de fotos.</li>
+        <li><strong>Internet:</strong> Necesario para conectar con la base de datos, subir contenido y recibir notificaciones.</li>
+        <li><strong>Notificaciones:</strong> Necesario para recibir alertas sobre nuevos avisos en el foro.</li>
+    </ul>
+
+    <h2>3. Enlaces a Políticas de Privacidad de Terceros</h2>
+    <p>Esta aplicación utiliza servicios de terceros que tienen sus propias Políticas de Privacidad:</p>
+    <ul>
+        <li><a href="https://policies.google.com/privacy" target="_blank">Google Play Services & Firebase</a></li>
+        <li><a href="https://onesignal.com/privacy_policy" target="_blank">OneSignal</a></li>
+        <li><a href="https://imgbb.com/privacy" target="_blank">ImgBB</a></li>
+    </ul>
+
+    <h2>4. Seguridad</h2>
+    <p>Valoramos su confianza al proporcionarnos su información personal y nos esforzamos por utilizar medios comercialmente aceptables para protegerla. Sin embargo, recuerde que ningún método de transmisión por Internet o método de almacenamiento electrónico es 100% seguro y confiable.</p>
+
+    <h2>5. Privacidad de los Niños</h2>
+    <p>Estos Servicios no se dirigen a menores de 13 años. No recopilamos a sabiendas información de identificación personal de niños menores de 13 años. Si descubrimos que un niño menor de 13 años nos ha proporcionado información personal, la eliminamos inmediatamente de nuestros servidores.</p>
+
+    <h2>6. Cambios a esta Política de Privacidad</h2>
+    <p>Podemos actualizar nuestra Política de Privacidad de vez en cuando. Por lo tanto, se le recomienda revisar esta página periódicamente para ver si hay cambios. Le notificaremos cualquier cambio publicando la nueva Política de Privacidad en esta página.</p>
+
+    <h2>7. Contáctenos</h2>
+    <p>Si tiene alguna pregunta o sugerencia sobre nuestra Política de Privacidad, no dude en contactarnos en:</p>
+    <p>📧 <a href="mailto:[ellyxeo@gmail.com]">[ellyxeo@gmail.com]</a></p>
+
+    <div class="footer">
+        <p>&copy; 2025 Ellyxeo Apps. Todos los derechos reservados.</p>
+    </div>
+
+</body>
+</html>
